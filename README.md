@@ -17,4 +17,5 @@ Introducing a **compact, agile 4-wheeled robotic car** designed with **Arduino U
 🛑 **Innovative braking system for quick and safe stops**  
 🔄 **Enhanced movement capabilities including forward, backward, and turning with finesse**  
 
-![Robo Car Features](https://github.com/user-attachments/assets/379b1f36-613f-4562-b81c-b7af24e4547f)
+![WhatsApp Image 2025-01-05 at 23 06 15_b15ea5de](https://github.com/user-attachments/assets/5333f739-e823-459b-a343-7c5b6e8ce8fa)
+
